@@ -1,0 +1,1480 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 9 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+/Annots [ 15 0 R 16 0 R 17 0 R ]
+>>
+endobj
+5 0 obj
+[ 13 0 R 14 0 R ]
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F1-0 12 0 R
+/F2 8 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057yara\055sameh\0553bb941345)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 376.3308 760.178 408.4608 770.378 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057yaraasameh2\055lab\056github\056io\057Yara\055Sameh\055portfolio\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 415.3968 760.178 446.5748 770.378 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Length 14752
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 42.85039 786.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 20 Tf
+24 TL
+149.7874 0 Td
+(YARA SAMEH SALEM) Tj
+T*
+-149.7874 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 772.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+221.4739 0 Td
+(Data Analyst) Tj
+T*
+-221.4739 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 770.378 cm
+Q
+q
+1 0 0 1 42.85039 759.378 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+105.8504 0 Td
+11 TL
+/F1 8.5 Tf
+0 0 0 rg
+() Tj
+() Tj
+() Tj
+() Tj
+T*
+-105.8504 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 741.378 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(SUMMARY) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 739.578 cm
+q
+0.8 w
+1 J
+0 0 0 RG
+n
+0 0 m
+509.5748 0 l
+S
+Q
+Q
+q
+1 0 0 1 42.85039 665.178 cm
+q
+BT
+1 0 0 1 0 63.2 Tm
+0.138083 Tw
+10.2 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Detail\055oriented ) Tj
+/F2 8.2 Tf
+(Data Analyst) Tj
+/F1 8.2 Tf
+( with hands\055on experience across the full analysis workflow\072 collecting and cleaning raw data\054 transforming and) Tj
+T*
+0 Tw
+1.540713 Tw
+(modeling it\054 analyzing trends\054 and presenting findings through ) Tj
+/F2 8.2 Tf
+(interactive dashboards) Tj
+/F1 8.2 Tf
+( and ) Tj
+/F2 8.2 Tf
+(KPI reports) Tj
+/F1 8.2 Tf
+(\056 Completed a ) Tj
+/F2 8.2 Tf
+(Data Analysis) Tj
+T*
+0 Tw
+0.562734 Tw
+(Internship at VOLTIX\055EG) Tj
+/F1 8.2 Tf
+(\054 working with ) Tj
+/F2 8.2 Tf
+(Python \050Pandas\054 NumPy\054 Matplotlib\051) Tj
+/F1 8.2 Tf
+(\054 ) Tj
+/F2 8.2 Tf
+(Excel) Tj
+/F1 8.2 Tf
+(\054 ) Tj
+/F2 8.2 Tf
+(Power Query) Tj
+/F1 8.2 Tf
+(\054 and ) Tj
+/F2 8.2 Tf
+(Power BI) Tj
+/F1 8.2 Tf
+( to turn raw datasets) Tj
+T*
+0 Tw
+1.302483 Tw
+(into analytical reports and business insights\056 Previously trained at ) Tj
+/F2 8.2 Tf
+(Telecom Egypt) Tj
+/F1 8.2 Tf
+(\054 where I cleaned and transformed ) Tj
+/F2 8.2 Tf
+(50\054000\053 telecom) Tj
+T*
+0 Tw
+0.33344 Tw
+(records) Tj
+/F1 8.2 Tf
+(\054 built ) Tj
+/F2 8.2 Tf
+(3 interactive dashboards) Tj
+/F1 8.2 Tf
+( tracking ) Tj
+/F2 8.2 Tf
+(10\053 KPIs) Tj
+/F1 8.2 Tf
+(\054 and helped cut manual reporting time by ) Tj
+/F2 8.2 Tf
+(about 20\045) Tj
+/F1 8.2 Tf
+( within a 5\055member team\056) Tj
+T*
+0 Tw
+2.0278 Tw
+(Strong in ) Tj
+/F2 8.2 Tf
+(SQL) Tj
+/F1 8.2 Tf
+( \050filtering\054 joins\054 aggregation\054 conditional logic\051 and ) Tj
+/F2 8.2 Tf
+(Power BI) Tj
+/F1 8.2 Tf
+( \050data modeling\054 DAX\054 dashboard design\051\054 with a strong) Tj
+T*
+0 Tw
+(foundation in databases and programming\056 Looking for a Data Analyst role where I can turn data into clear\054 actionable decisions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 647.178 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(EXPERIENCE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 645.378 cm
+q
+0.8 w
+1 J
+0 0 0 RG
+n
+0 0 m
+509.5748 0 l
+S
+Q
+Q
+q
+1 0 0 1 42.85039 632.178 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Data Analysis Intern) Tj
+/F1 8.2 Tf
+( \174 VOLTIX\055EG \227 Sep 2026 \226 Oct 2026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 611.978 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 12.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 611.978 cm
+q
+BT
+1 0 0 1 0 12 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Completed hands\055on data analysis tasks covering ) Tj
+/F2 8.2 Tf
+(data cleaning\054 transformation\054 analysis\054 and visualization) Tj
+/F1 8.2 Tf
+( using ) Tj
+/F2 8.2 Tf
+(Python\054 Pandas\054) Tj
+T*
+(NumPy\054 and Matplotlib) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 601.878 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 601.878 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Used ) Tj
+/F2 8.2 Tf
+(Excel\054 Power Query\054 and Power BI) Tj
+/F1 8.2 Tf
+( to transform datasets and develop ) Tj
+/F2 8.2 Tf
+(analytical reports and interactive dashboards) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 591.778 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 591.778 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Applied structured data analysis techniques to translate task requirements into ) Tj
+/F2 8.2 Tf
+(analytical outputs and business insights) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 579.578 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Data Analysis Trainee) Tj
+/F1 8.2 Tf
+( \174 Telecom Egypt \227 Jul 2026 \226 Sep 2026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 569.478 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 569.478 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Cleansed and transformed telecommunications datasets containing ) Tj
+/F2 8.2 Tf
+(50\054000\053 records) Tj
+/F1 8.2 Tf
+( to support accurate downstream analysis\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 559.378 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 559.378 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Designed ) Tj
+/F2 8.2 Tf
+(3 interactive dashboards) Tj
+/F1 8.2 Tf
+( using ) Tj
+/F2 8.2 Tf
+(Excel\054 SQL\054 and Power BI) Tj
+/F1 8.2 Tf
+( to track ) Tj
+/F2 8.2 Tf
+(10\053 KPIs) Tj
+/F1 8.2 Tf
+( and business trends\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 549.278 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 549.278 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Collaborated in a ) Tj
+/F2 8.2 Tf
+(5\055member team) Tj
+/F1 8.2 Tf
+( to extract actionable insights and ) Tj
+/F2 8.2 Tf
+(reduce manual reporting time by approximately 20\045) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 531.278 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(PROJECTS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 529.478 cm
+q
+0.8 w
+1 J
+0 0 0 RG
+n
+0 0 m
+509.5748 0 l
+S
+Q
+Q
+q
+1 0 0 1 42.85039 516.278 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Hospital Operations \046 Patient Analytics Dashboard) Tj
+/F1 8.2 Tf
+( \174 SQL\054 Power BI\054 DAX \227 Oct 2026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 506.178 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 506.178 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Analyzed hospital admissions and appointments data using ) Tj
+/F2 8.2 Tf
+(SQL) Tj
+/F1 8.2 Tf
+( to study ) Tj
+/F2 8.2 Tf
+(patient volumes\054 length of stay\054 and department workload) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 485.978 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 12.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 485.978 cm
+q
+BT
+1 0 0 1 0 12 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Built an interactive ) Tj
+/F2 8.2 Tf
+(Power BI) Tj
+/F1 8.2 Tf
+( dashboard with ) Tj
+/F2 8.2 Tf
+(DAX) Tj
+/F1 8.2 Tf
+( measures for ) Tj
+/F2 8.2 Tf
+(admissions\054 average length of stay\054 readmission rate\054 and bed) Tj
+T*
+(occupancy) Tj
+/F1 8.2 Tf
+( to help management spot bottlenecks\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 473.778 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Customer Segmentation \050RFM Analysis\051) Tj
+/F1 8.2 Tf
+( \174 SQL\054 Power BI \227 Oct 2026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 453.578 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 12.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 453.578 cm
+q
+BT
+1 0 0 1 0 12 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Calculated ) Tj
+/F2 8.2 Tf
+(Recency\054 Frequency\054 and Monetary) Tj
+/F1 8.2 Tf
+( scores using ) Tj
+/F2 8.2 Tf
+(SQL \050CTEs and window functions\051) Tj
+/F1 8.2 Tf
+( on a retail transactions dataset to) Tj
+T*
+(group customers into segments\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 443.478 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 443.478 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Built a ) Tj
+/F2 8.2 Tf
+(Power BI) Tj
+/F1 8.2 Tf
+( dashboard comparing ) Tj
+/F2 8.2 Tf
+(segment size and revenue contribution) Tj
+/F1 8.2 Tf
+( to support targeted marketing decisions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 431.278 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Superstore Sales \046 Profit Exploratory Analysis) Tj
+/F1 8.2 Tf
+( \174 Python\054 Pandas\054 NumPy \227 Oct 2026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 421.178 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 421.178 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Performed ) Tj
+/F2 8.2 Tf
+(EDA) Tj
+/F1 8.2 Tf
+( on a Superstore orders dataset to find the ) Tj
+/F2 8.2 Tf
+(most and least profitable) Tj
+/F1 8.2 Tf
+( categories\054 regions\054 and discount levels\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 411.078 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 411.078 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Presented insights with clear charts and a short written conclusion for ) Tj
+/F2 8.2 Tf
+(non\055technical readers) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 398.878 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Bank Customer Churn Analysis) Tj
+/F1 8.2 Tf
+( \174 Power BI\054 Power Query\054 DAX \227 Sep 2026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 388.778 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 388.778 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Analyzed ) Tj
+/F2 8.2 Tf
+(10\054000\053 customer records) Tj
+/F1 8.2 Tf
+(\054 cleaned missing values and duplicates\054 and built an ) Tj
+/F2 8.2 Tf
+(interactive churn dashboard) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 368.578 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 12.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 368.578 cm
+q
+BT
+1 0 0 1 0 12 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Developed KPIs including ) Tj
+/F2 8.2 Tf
+(churn rate\054 churned customers\054 and churned balance) Tj
+/F1 8.2 Tf
+(\073 analyzed drivers across ) Tj
+/F2 8.2 Tf
+(geography\054 age\054 gender\054) Tj
+T*
+(and tenure) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 356.378 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Sales Analysis Using SQL) Tj
+/F1 8.2 Tf
+( \174 SQL \227 Sep 2026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 336.178 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 12.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 336.178 cm
+q
+BT
+1 0 0 1 0 12 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Analyzed sales performance using ) Tj
+/F2 8.2 Tf
+(filtering\054 aggregation\054 and conditional logic) Tj
+/F1 8.2 Tf
+( to identify ) Tj
+/F2 8.2 Tf
+(trends\054 top\055performing products\054 and) Tj
+T*
+(sales patterns) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 323.978 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Employee Attrition Analysis) Tj
+/F1 8.2 Tf
+( \174 Python\054 Pandas\054 Matplotlib\054 Seaborn \227 Sep 2026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 303.778 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 12.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 303.778 cm
+q
+BT
+1 0 0 1 0 12 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Cleaned and explored an HR dataset to identify the ) Tj
+/F2 8.2 Tf
+(factors linked to attrition) Tj
+/F1 8.2 Tf
+(\054 such as department\054 salary band\054 overtime\054 and years at) Tj
+T*
+(company\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 293.678 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 2.1 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 293.678 cm
+q
+BT
+1 0 0 1 0 1.9 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Visualized attrition patterns and summarized ) Tj
+/F2 8.2 Tf
+(key findings and recommendations) Tj
+/F1 8.2 Tf
+( in a ) Tj
+/F2 8.2 Tf
+(Jupyter Notebook published on GitHub) Tj
+/F1 8.2 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 281.478 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Sales Analysis Dashboard) Tj
+/F1 8.2 Tf
+( \174 Excel\054 Power Query\054 Data Modeling \227 Aug 2026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 261.278 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 12.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 52.85039 261.278 cm
+q
+BT
+1 0 0 1 0 12 Tm
+10.1 TL
+/F1 8.2 Tf
+0 0 0 rg
+(Built an ) Tj
+/F2 8.2 Tf
+(interactive dashboard) Tj
+/F1 8.2 Tf
+( for ) Tj
+/F2 8.2 Tf
+(10\054000\053 transactions) Tj
+/F1 8.2 Tf
+( and created ) Tj
+/F2 8.2 Tf
+(8 dynamic KPIs) Tj
+/F1 8.2 Tf
+( across products\054 customers\054 branches\054 and) Tj
+T*
+(seasonal trends\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 243.278 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(EDUCATION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 241.478 cm
+q
+0.8 w
+1 J
+0 0 0 RG
+n
+0 0 m
+509.5748 0 l
+S
+Q
+Q
+q
+1 0 0 1 42.85039 228.278 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Computer Science) Tj
+/F1 8.2 Tf
+( \174 Faculty of Computer and Information Science\054 Helwan National University) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 210.278 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(TECHNICAL SKILLS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 208.478 cm
+q
+0.8 w
+1 J
+0 0 0 RG
+n
+0 0 m
+509.5748 0 l
+S
+Q
+Q
+q
+1 0 0 1 42.85039 185.078 cm
+q
+BT
+1 0 0 1 0 12.2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Data Analysis\072) Tj
+/F1 8.2 Tf
+( ) Tj
+/F2 8.2 Tf
+(Data Cleaning) Tj
+/F1 8.2 Tf
+(\054 Data Wrangling\054 Data Transformation\054 ) Tj
+/F2 8.2 Tf
+(Exploratory Data Analysis \050EDA\051) Tj
+/F1 8.2 Tf
+(\054 Descriptive Statistics\054 ) Tj
+/F2 8.2 Tf
+(KPI) Tj
+T*
+(Reporting) Tj
+/F1 8.2 Tf
+(\054 Trend Analysis\054 Business Insights\054 Data Storytelling\054 Report Automation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 183.078 cm
+Q
+q
+1 0 0 1 42.85039 162.678 cm
+q
+BT
+1 0 0 1 0 12.2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(BI \046 Visualization\072) Tj
+/F1 8.2 Tf
+( ) Tj
+/F2 8.2 Tf
+(Power BI) Tj
+/F1 8.2 Tf
+(\054 ) Tj
+/F2 8.2 Tf
+(DAX) Tj
+/F1 8.2 Tf
+(\054 ) Tj
+/F2 8.2 Tf
+(Power Query) Tj
+/F1 8.2 Tf
+(\054 Data Modeling\054 ) Tj
+/F2 8.2 Tf
+(Interactive Dashboards) Tj
+/F1 8.2 Tf
+(\054 Data Visualization\054 ) Tj
+/F2 8.2 Tf
+(Microsoft Excel) Tj
+/F1 8.2 Tf
+T*
+(\050PivotTables\054 PivotCharts\054 Slicers\054 XLOOKUP\057VLOOKUP\054 Conditional Formatting\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 160.678 cm
+Q
+q
+1 0 0 1 42.85039 140.278 cm
+q
+BT
+1 0 0 1 0 12.2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(Programming \046 Databases\072) Tj
+/F1 8.2 Tf
+( ) Tj
+/F2 8.2 Tf
+(Python) Tj
+/F1 8.2 Tf
+(\054 Pandas\054 NumPy\054 Matplotlib\054 Seaborn\054 ) Tj
+/F2 8.2 Tf
+(SQL) Tj
+/F1 8.2 Tf
+( \050Joins\054 Aggregations\054 Subqueries\054 CTEs\054 Window) Tj
+T*
+(Functions\051\054 Relational Databases\054 Jupyter Notebook\054 Git \046 GitHub) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 122.278 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+13 TL
+/F2 10.5 Tf
+0 0 0 rg
+(CERTIFICATIONS \046 COURSES) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 120.478 cm
+q
+0.8 w
+1 J
+0 0 0 RG
+n
+0 0 m
+509.5748 0 l
+S
+Q
+Q
+q
+1 0 0 1 42.85039 97.07795 cm
+q
+BT
+1 0 0 1 0 12.2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(HCIA\055AI V4\0560 Certification) Tj
+/F1 8.2 Tf
+( \226 Huawei \050Apr 2026\051 \174 ) Tj
+/F2 8.2 Tf
+(Database Fundamentals) Tj
+/F1 8.2 Tf
+( \226 Mahara\055Tech \050Jan 2026\051 \174 ) Tj
+/F2 8.2 Tf
+(Python Programming Basics) Tj
+/F1 8.2 Tf
+( \226) Tj
+T*
+(Mahara\055Tech \050Nov 2025\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 79.07795 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(LANGUAGES) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 42.85039 77.27795 cm
+q
+0.8 w
+1 J
+0 0 0 RG
+n
+0 0 m
+509.5748 0 l
+S
+Q
+Q
+q
+1 0 0 1 42.85039 64.07795 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.2 TL
+/F2 8.2 Tf
+0 0 0 rg
+(English\072) Tj
+/F1 8.2 Tf
+( B1 \050Intermediate\051) Tj
+T*
+ET
+Q
+Q
+
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/Length 600
+>>
+stream
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 146.3378 761.8498 Tm
+(Giza\054 Egypt \174 \05320 1110296374 \174 ) Tj
+T*
+ET
+0.02 0.39 0.76 rg
+BT
+1 0 0 1 268.1853 761.8498 Tm
+(yarasameh796\100gmail\056com) Tj
+T*
+ET
+0.02 0.39 0.76 RG
+0.5 w
+n
+268.1853 760.6498 m
+371.7578 760.6498 l
+S
+0 0 0 rg
+BT
+1 0 0 1 371.7578 761.8498 Tm
+( \174 ) Tj
+T*
+ET
+0 0 0 rg
+BT
+1 0 0 1 378.6938 761.8498 Tm
+(LinkedIn) Tj
+T*
+ET
+0 0 0 rg
+BT
+1 0 0 1 410.8238 761.8498 Tm
+( \174 ) Tj
+T*
+ET
+0 0 0 rg
+BT
+1 0 0 1 417.7598 761.8498 Tm
+(Portfolio) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 268.1853 760.0498 371.7578 770.2498 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057mail\056google\056com\057mail\057\077view\075cm\046fs\0751\046to\075yarasameh796\100gmail\056com)
+>>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 378.6938 760.0498 410.8238 770.2498 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057www\056linkedin\056com\057in\057yara\055sameh\0553bb941345)
+>>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 417.7598 760.0498 448.9378 770.2498 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057yaraasameh2\055lab\056github\056io\057Yara\055Sameh\055portfolio\057)
+>>
+>>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000178 00000 n 
+0000000410 00000 n 
+0000000443 00000 n 
+0000000497 00000 n 
+0000000604 00000 n 
+0000000716 00000 n 
+0000000737 00000 n 
+0000000963 00000 n 
+0000001199 00000 n 
+0000001307 00000 n 
+0000016113 00000 n 
+0000016765 00000 n 
+0000017017 00000 n 
+0000017231 00000 n 
+trailer
+<<
+/Size 18
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+17455
+%%EOF
